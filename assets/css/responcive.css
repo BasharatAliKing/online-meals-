@@ -136,7 +136,7 @@
         display: none;
     }
     #header .mid{
-        margin: 0px 200px;
+        margin: 0px 140px;
     }
   
     #home{
@@ -207,7 +207,7 @@
         font-size: 30px;
     }
     #creation{
-        margin-top: 2200px;
+        margin-top: 2000px;
        
     }
 }
