@@ -174,6 +174,28 @@
         margin-left:00px;
         margin-right: 0px;
     }
+
+    /* element.style {
+
+    } */
+    @media (max-width: 768px){
+    #menu .col-md-6 {
+        margin-top: 50;
+    }
+    }
+    @media (max-width: 992px){
+    #menu .col-md-6 {
+        margin-top: 20
+    px
+    ;
+    }
+    #menu .col-md-6 {
+        display: flex;
+        padding: 10px 0px;
+        margin-left: -20px;
+        margin-right: 10px;
+    }
+
     #get{
         height: 130%;
     }
@@ -192,7 +214,7 @@
     #get{
         margin-top: 1300px;
       
-        height: 80%;
+        height: 77%;
      
       
       
@@ -209,5 +231,6 @@
     #creation{
         margin-top: 2000px;
        
+    }
     }
 }
