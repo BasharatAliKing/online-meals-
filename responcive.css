@@ -1,0 +1,235 @@
+@media(max-width:992px){
+    #header .mid{
+        margin: 0px 450px;
+        }
+        #home h1{
+            font-size: 50px;
+        }   
+        #work .col-md-4{
+            margin-top: 30px;
+        }
+        #menu .col-md-6{
+            margin-top:20px ;
+            
+        }
+       
+        #menu h2{
+            font-size: 20px;
+        }
+        #menu .col-md-6 p{
+            text-align: start;
+            font-size: 14px;
+        }
+        #menu .b{
+            margin-left: 10px;
+        }
+        #plains p{
+            margin: 10px 10px;
+        }
+        #plains #plains-box .col-md-6{
+            margin-top: 40px;
+        }
+        #mission #clean{
+            margin-left: -400px;
+            margin-right: 300px;
+            padding: 30px;
+            padding-top: 50px;
+            padding-bottom: 50px;
+            background-color: white;
+            box-shadow: 4px 4px 4px 5px rgb(192, 189, 189);
+            border-radius: 10px;
+        }
+        #get #you{
+            border-radius: 10px;
+            background-color: white;
+           
+            padding: 50px 30px;
+            margin-left: 250px;
+           
+            margin-top: 30px;
+             margin-right: -250px;
+            box-shadow: 4px 4px 4px 5px rgb(192, 189, 189);
+        
+        }
+        #get{
+            margin-top: 1200px;
+            height: 110%;
+            right: 30%;
+            left: 10%;
+        }
+
+        #creation{
+            margin-top: 1800px;
+        }
+}
+@media(max-width:768px){
+    #header .left{
+        left: 10px;
+    }
+    #header .right{
+        right: 10px;
+    }
+    #header .right{
+        display: none;
+    }
+    #header .mid{
+           margin: 0px 320px;
+    }
+    #home{
+        margin: 0px 100px;
+        top: 200px;
+       padding-top: 30px;
+    }
+    #work{
+        text-align: center;
+    }
+  
+    #menu .col-md-6{
+        margin-top: 50px;
+    }
+    #menu .b .king{
+        display: flex;
+    }
+    #menu .b .king span{
+        margin-top: 15px;
+        margin-left: 4px;
+    }
+    #mission h1{
+        font-size: 40px;
+    }
+    #mission .clean{
+        margin-left: -400px;
+        margin-right: 00px;
+    }
+    #get{
+        height: 110%;
+        right: 30%;
+        left: 0%;
+    }
+    #get h1{
+        font-size: 40px;
+    }
+    #creation{
+        text-align: center;
+    }
+    #creation .col-md-3{
+        margin-top:20px
+    }
+
+}
+@media (max-width:576px){
+    #arrow{
+        z-index: 100;
+        background-color: black;
+        color: white;
+        
+        border-radius: 50%;
+        position: fixed;
+        top: 90%;
+        left: 20px;
+    }
+    #arrow i{
+        font-size: 40px;
+        padding: 5px 10px;
+    }
+    #header .left{
+        display: none;
+    }
+    #header .mid{
+        margin: 0px 140px;
+    }
+  
+    #home{
+        top: 80px;
+        margin: 0px;
+        padding:0px ;
+    }
+    #home h1{
+        font-size: 30px;
+        margin: 0px;
+    }
+/* #work .col-md-6{
+    margin-left: 60px;
+} */
+    #work img{
+        width: 200px;
+        height: 150px;
+     
+    }
+
+    #home p{
+        margin-top: 3px;
+        font-size: 16px;
+    font-weight: bold;
+    margin-top: 30px;
+    }
+     #mission{
+         left: 0px;
+         background-size: 100% 150%;
+     }
+     #mission h1{
+         font-size: 35px;
+     }
+    #mission #clean{
+        margin-left:00px;
+        margin-right: 0px;
+    }
+
+    element.style {
+    }
+    @media (max-width: 768px)
+    #menu .col-md-6 {
+        margin-top: 50
+    px
+    ;
+    }
+    @media (max-width: 992px)
+    #menu .col-md-6 {
+        margin-top: 20
+    px
+    ;
+    }
+    #menu .col-md-6 {
+        display: flex;
+        padding: 10px 0px;
+        margin-left: -10px;
+        margin-right: 20px;
+    }
+
+    #get{
+        height: 130%;
+    }
+    #get #you{
+      
+        padding: 30px 20px;
+        margin-left: 10px;
+        margin-top: 30px;
+         margin-right: -100px;
+       
+    
+    }
+    #get h1{
+        font-size: 35px;
+    }
+    #get{
+        margin-top: 1300px;
+      
+        height: 77%;
+     
+      
+      
+    }
+    #creation #icons i{
+        margin-top: 20px;
+        margin-left: 15px;
+        background-color:white;
+        padding: 10px 14px;
+        border-radius: 50%;
+        color:black;
+        font-size: 30px;
+    }
+    #creation{
+        margin-top: 2000px;
+       
+    }
+}
