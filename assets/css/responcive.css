@@ -189,6 +189,14 @@
     #get h1{
         font-size: 35px;
     }
+    #get{
+        margin-top: 1300px;
+      
+        height: 80%;
+     
+      
+      
+    }
     #creation #icons i{
         margin-top: 20px;
         margin-left: 15px;
@@ -197,5 +205,9 @@
         border-radius: 50%;
         color:black;
         font-size: 30px;
+    }
+    #creation{
+        margin-top: 2200px;
+       
     }
 }
